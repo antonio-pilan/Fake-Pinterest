@@ -9,11 +9,15 @@
 <h2>Tecnologias utilizadas:</h2>
 
 <p>
-    <li>Framework Flask:</li>
-        <ul>Sistema de Criação de conta e login</ul>
-        <ul>Integração com banco de dados via Python</ul>
-        <ul>Sistema de autenticação usando Bcrypt</ul>
-        <ul>Sistema de postagens para muitos usuários</ul>
-        <ul>Feed integrado universal</ul>
-    <li>HTML/CSS</li>
+    <ol>
+        <li>Framework Flask:</li>
+        <ul>
+            <li>Sistema de Criação de conta e login</li>
+            <li>Integração com banco de dados via Python</li>
+            <li>Sistema de autenticação usando Bcrypt</li>
+            <li>Sistema de postagens para muitos usuários</li>
+            <li>Feed integrado universal</li>
+        </ul>
+        <li>HTML/CSS</li>
+    </ol>
 </p>
