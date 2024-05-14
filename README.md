@@ -10,10 +10,10 @@
 
 <p>
     <li>Framework Flask:</li>
-    <ul>Sistema de Criação de conta e login</ul>
-    <ul>Integração com banco de dados via Python</ul>
-    <ul>Sistema de autenticação usando Bcrypt</ul>
-    <ul>Sistema de postagens para muitos usuários</ul>
-    <ul>Feed integrado universal</ul>
+        <ul>Sistema de Criação de conta e login</ul>
+        <ul>Integração com banco de dados via Python</ul>
+        <ul>Sistema de autenticação usando Bcrypt</ul>
+        <ul>Sistema de postagens para muitos usuários</ul>
+        <ul>Feed integrado universal</ul>
     <li>HTML/CSS</li>
 </p>
