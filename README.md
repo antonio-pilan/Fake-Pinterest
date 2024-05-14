@@ -1,4 +1,10 @@
 <h1><a href="https://fakepinterest-ef6v.onrender.com/">FakePinterest</a></h1>
+<strong>Observação importante:</strong> Ao fazer login, você poderá fazer o upload de suas fotos, porém, como o deploy deste projeto usa uma licensa gratuita do Render, imagens antigas estarão quebradas!
+Isso acontece pois o banco de dados do Render é resetado a cada deploy, o que ocasiona na perda das imagens no caminho.
+<br>
+Os uploads feitos na sua sessão devem se comportar corretamente, caso algo ocorra fique a vontade para contatar!
+
+<a href="https://wa.me/5516991870000">Contato</a>
 
 <h2>O que é</h2>
 
