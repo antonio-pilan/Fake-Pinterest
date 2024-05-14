@@ -3,7 +3,7 @@
 <h2>O que é</h2>
 
 <p>
-    O FakePinterest é um projeto feito em conjunto com a Hashtag Treinamentos estuando o framework Flask.
+    O FakePinterest é um projeto feito em conjunto com a Hashtag Treinamentos estuando o framework <strong>Flask</strong>
 </p>
 
 <h2>Tecnologias utilizadas:</h2>
@@ -19,5 +19,6 @@
             <li>Feed integrado universal</li>
         </ul>
         <li>HTML/CSS</li>
+        <li>Deploy:<a href="https://render.com/">Render</a> </li>
     </ol>
 </p>
