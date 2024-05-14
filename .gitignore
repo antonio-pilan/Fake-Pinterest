@@ -1,4 +1,4 @@
-instance
+instance*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -9,7 +9,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Python
+.PythonW
 build/
 develop-eggs/
 dist/
