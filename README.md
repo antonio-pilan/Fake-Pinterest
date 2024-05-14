@@ -22,3 +22,18 @@
         <li>Deploy:<a href="https://render.com/">Render</a> </li>
     </ol>
 </p>
+
+<p>
+    Todas as bibliotecas necessárias para rodar no seu computador estão em requirements, portnato basta instalar usando:
+        <div class="box">
+            <pre>
+                $ pip install -r requirements.txt
+            </pre>
+        </div>
+        ou ativando o ambiente virtual presente na pasta venv:
+        <div class="box">
+            <pre>
+                $ venv/scripts/activate
+            </pre>
+        </div>
+</p>
