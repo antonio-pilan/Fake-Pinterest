@@ -3,7 +3,8 @@
 <h2>O que é</h2>
 
 <p>
-    O FakePinterest é um projeto feito em conjunto com a Hashtag Treinamentos estuando o framework <strong>Flask</strong>
+    <a href="https://fakepinterest-ef6v.onrender.com/">O FakePinterest</a> é um projeto feito em conjunto com a Hashtag Treinamentos estuando o framework <strong>Flask.</strong>
+    Crie sua conta e compartilhe suas imagens no FakePinterest!
 </p>
 
 <h2>Tecnologias utilizadas:</h2>
